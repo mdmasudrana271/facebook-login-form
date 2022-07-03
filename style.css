@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     font-family: sans-serif;
+    position: relative;
 
 }
 .login
@@ -37,7 +38,7 @@
     font-weight: bold;
     color: gray;
     width: 41%;
-    height: 50px;
+    height: 55px;
     font-size: 35px;
     margin-top: 40px;
 }
